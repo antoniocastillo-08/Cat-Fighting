@@ -1,2 +1,4 @@
 # Cat-Fighting
-Juego de Lucha hecho con Godot 4 para dispositivos Android
+Juego Hack and Slash hecho con Godot 4 para dispositivos Android.
+Matar enemigos por oleadas
+
